@@ -1,4 +1,4 @@
-## [EmployeeSalaryStorage.sol](/EmployeeSalaryStorage.sol)
+## [EmployeeSalaryStorage.sol](https://github.com/umeshsiddarth/Solidity/blob/main/Contracts/EmployeeSalaryStorage.sol)
 In this solidity contract I learnt about the basic data types, keywords, functions, storage functions etc.
 
 The key learnings are declaring the variables, constructing a struct, using the struct and declaring a variable, using mapping, and constructing a function.
